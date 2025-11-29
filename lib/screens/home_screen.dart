@@ -115,13 +115,13 @@ class HomeScreenState extends State<HomeScreen> {
                     Text("Renda",
                         style: TextStyle(
                           fontSize: 53.sp,
-                          color: Colors.white,
+                          color: Colors.deepOrangeAccent,
                           fontWeight: FontWeight.bold,
                         )),
                     Text("Machine",
                         style: TextStyle(
                           fontSize: 53.sp,
-                          color: Colors.white,
+                          color: Colors.deepOrangeAccent,
                           fontWeight: FontWeight.bold,
                         )),
 
